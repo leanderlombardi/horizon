@@ -1,2 +1,6 @@
 # horizon
-Horizon Programming language interpreted in Java
+### "horizon" programming language interpreted in Java
+**STATUS (currently finished):** `false`
+Oops! This project is not finished!
+
+Try again later!
